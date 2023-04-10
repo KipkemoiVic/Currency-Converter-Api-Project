@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 60px;
+    text-align: left;
+    margin: 10px;
+  }
+  
+  input, select {
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+    background-color: #1e90ff;
+    color: #fff;
+  }
+  
+  #result {
+    margin-top: 50px;
+    font-size: 24px;
+  }
+  
